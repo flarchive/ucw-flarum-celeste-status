@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of ucw/flarum-celeste-status.** Not for installation: use [Packagist](https://packagist.org/packages/ucw/flarum-celeste-status) or the [upstream repository](https://github.com/wuxianucw/flarum-celeste-status).
 
-**0** versions archived · Latest: [`v0.1.2`](https://github.com/flarchive/ucw-flarum-celeste-status/tree/archive/v0.1.2) · License: `MIT` · Flarum: `^1.2.0`
+**3** versions archived · Latest: [`v0.1.2`](https://github.com/flarchive/ucw-flarum-celeste-status/tree/archive/v0.1.2) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2023-02-28 | `^1.2.0` | [Browse](https://github.com/flarchive/ucw-flarum-celeste-status/tree/archive/v0.1.0) |
+| `v0.1.1` | 2023-03-01 | `^1.2.0` | [Browse](https://github.com/flarchive/ucw-flarum-celeste-status/tree/archive/v0.1.1) |
+| `v0.1.2` | 2023-03-01 | `^1.2.0` | [Browse](https://github.com/flarchive/ucw-flarum-celeste-status/tree/archive/v0.1.2) |
 
 Catalog entry: [packages/ucw-flarum-celeste-status.json](https://github.com/flarchive/archive-index/blob/main/packages/ucw-flarum-celeste-status.json)
 
